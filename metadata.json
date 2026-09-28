@@ -1,0 +1,6 @@
+{
+  "name": "BUILDRE - 3D Voxel Sandbox",
+  "description": "A procedurally generated 3D voxel sandbox survival game featuring exploration, mining, building, crafting, day-night cycle, and monsters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
